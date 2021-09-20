@@ -173,4 +173,22 @@ span {
 }
 
 @media (min-width: 61.25em) {
+  .container {
+    max-width: 25rem;
+    max-height: 38.75rem;
+  }
+
+  .summary-top {
+    height: 12.5rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .plan,
+  .p-btn,
+  .c-btn {
+    width: 19.625rem;
+  }
 }
